@@ -471,6 +471,13 @@ html {
     }
 }
 
+@media (min-width: 1371px) {
+    .content-heading {
+        text-align: center;
+        font-size: 40px
+    }
+}
+
 @media (max-width: 680px) {
     .content {
         width: 335px;
